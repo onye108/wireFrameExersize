@@ -28,3 +28,40 @@ nav li{
   padding: 30px;
   max-width: 960px;
   text-align: center;
+}
+  main{
+    max-width: 960px;
+    padding-left: 150px;
+    padding-top: 30px;
+  }
+  .pic2{
+    padding-left: 0px;
+  }
+  main ul{
+    position: absolute;
+    padding-top: 30px;
+    width: 100%;
+  }
+  main ul li{
+    display: inline;
+    padding-left: 30px;
+    max-width: 960px;
+  }
+  .threeBlock li:last-child{
+    clear: both;
+  }
+   section{
+    padding-top: 435px;
+    max-width: 960px;
+  }
+  section img {
+    float: left;
+    width: 50%;
+  }
+  article{
+    width: 50%;
+    float: right;
+    padding-bottom:30px;
+  }
+  article h2{
+    font-size: 36px;
