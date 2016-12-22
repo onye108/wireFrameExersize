@@ -1,0 +1,30 @@
+html body{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  max-height:100%;
+  max-width:100%;
+  background-color: black;
+  color: white;
+}
+header{
+  position: relative;
+  width: 100%;
+  background-color: darkgrey;
+  color: lightgrey;
+}
+nav{
+  padding-left: 150px;
+}
+.pic1{
+  padding-left: 0;
+}
+nav ul{
+width: 100%;
+top: 0;
+display: inline;
+}
+nav li{
+  display: inline;
+  padding: 30px;
+  max-width: 960px;
+  text-align: center;
